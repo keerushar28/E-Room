@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function App() {
   return (
-    <div className='text-red'>Pokhara</div>
+   <h1 className='text-red-500'>Pokhara Room Service</h1>
   )
 }
